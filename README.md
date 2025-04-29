@@ -9,7 +9,7 @@
 - 📫 How to reach me **rahulqurbanov055@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-https://www.linkedin.com/in/rahul-qurbanov/
+<a href= "https://www.linkedin.com/in/rahul-qurbanov/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
 <p align="left">
 </p>
 
